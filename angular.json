@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ParcialAngular"
+    }
+  },
+  "defaultProject": "ParcialAngular",
+  "cli": {
+    "analytics": "d4270e5d-3bfa-46aa-9d8e-5d1b44482bd9"
+  }
 }
